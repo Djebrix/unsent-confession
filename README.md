@@ -1,8 +1,9 @@
 # Unsent: The Micro-Confession Sprint
 
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Djebrix/unsent-confession)
-[![Python](https://img.shields.io/badge/python-3.13-blue)](https://github.com/Djebrix/unsent-confession)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/Djebrix/unsent-confession/blob/main/LICENSE)
+[![make.fun](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba.svg)](https://make.fun/bounty/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba)
+[![rank](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba/Djebrix/unsent-confession/rank.svg)](https://make.fun/bounty/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba)
+[![reward](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba/Djebrix/unsent-confession/reward.svg)](https://make.fun/bounty/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba)
+
 
 One micro-confession, exactly two parts: a `To:` line naming who it was
 meant for, and the unsent message itself, one line written exactly as it was
